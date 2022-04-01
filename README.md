@@ -7,4 +7,4 @@ Data : yelp
 
 Model : BERT, RoBERTa, ELECTRA, XLNet, ALBERT
 
-Best_Acc : 98.5%
+Best_Acc : 98.9%
