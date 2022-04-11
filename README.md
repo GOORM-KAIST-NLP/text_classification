@@ -1,5 +1,5 @@
 # text-classification
-<a href="https://www.kaggle.com/competitions/goorm-nlp-projects-3rd/submissions">
+<a href="https://www.kaggle.com/competitions/goorm-nlp-projects-3rd/overview">
   <img src="https://img.shields.io/badge/Goorm NLP project 1-Competition-orange?style=for-the-badge"></img></a>
 
 Task : Text Binary Classification
@@ -7,6 +7,8 @@ Task : Text Binary Classification
 Data : yelp
 
 Model : BERT, RoBERTa, ELECTRA, XLNet, ALBERT
+
+Ranking : 1st
 
 Best_Acc : 98.9%
 
